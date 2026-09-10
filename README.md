@@ -1,4 +1,4 @@
-# InfoSec Project
+# INFORMATION SECURITY SEMESTER PROJECT
 
 ## Overview
 This repository contains a secure client-server application designed to demonstrate core information security principles. The system utilizes cryptographic key exchanges, certificate validation, a blockchain-based ledger for tamper-evident record-keeping, and an administrative console for manual approvals and user management.
