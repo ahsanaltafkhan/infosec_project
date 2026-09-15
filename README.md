@@ -32,6 +32,6 @@ This repository contains a secure client-server application designed to demonstr
 ## Setup and Usage
 
 ### 1. Initialize the Server
-Start the server to begin listening for secure connections and to initialize the keys and blockchain ledger.
+Start server to begin listening for secure connections and to initialize the keys and blockchain ledger.
 ```bash
 python server.py
